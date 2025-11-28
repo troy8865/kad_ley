@@ -2,7 +2,7 @@
     {
         "iconUrl": "https://www.canlidizi14.com/favicon.ico",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/kadireksi/kreaStream",
+        "repositoryUrl": "https://github.com/troy8865/kad_ley",
         "fileSize": 22744,
         "status": 1,
         "language": "tr",
@@ -16,13 +16,13 @@
         "version": 2,
         "internalName": "CanliDizi",
         "description": "Canl\u0131 Dizi i\u00e7in Cloudstream eklentisi",
-        "url": "https://raw.githubusercontent.com/kadireksi/kreaStream/builds/CanliDizi.cs3",
+        "url": "https://raw.githubusercontent.com/troy8865/kad_ley/builds/CanliDizi.cs3",
         "name": "CanliDizi"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/kadireksi/kreaStream",
+        "repositoryUrl": "https://github.com/troy8865/kad_ley",
         "fileSize": 31502,
         "status": 1,
         "language": "tr",
@@ -35,13 +35,13 @@
         "version": 3,
         "internalName": "DiziMom",
         "description": "Binlerce yerli yabanc\u0131 dizi ar\u015fivi, t\u00fcm sezonlar, kesintisiz b\u00f6l\u00fcmler. Sadece dizi izle, Dizimom heryerde seninle!",
-        "url": "https://raw.githubusercontent.com/kadireksi/kreaStream/builds/DiziMom.cs3",
+        "url": "https://raw.githubusercontent.com/troy8865/kad_ley/builds/DiziMom.cs3",
         "name": "DiziMom"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal1220.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/kadireksi/kreaStream",
+        "repositoryUrl": "https://github.com/troy8865/kad_ley",
         "fileSize": 20094,
         "status": 1,
         "language": "tr",
@@ -55,13 +55,13 @@
         "version": 25,
         "internalName": "DiziPal",
         "description": "en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
-        "url": "https://raw.githubusercontent.com/kadireksi/kreaStream/builds/DiziPal.cs3",
+        "url": "https://raw.githubusercontent.com/troy8865/kad_ley/builds/DiziPal.cs3",
         "name": "DiziPal"
     },
     {
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/kadireksi/kreaStream",
+        "repositoryUrl": "https://github.com/troy8865/kad_ley",
         "fileSize": 44165,
         "status": 1,
         "language": "tr",
@@ -74,13 +74,13 @@
         "version": 2,
         "internalName": "DiziPalOrijinal",
         "description": "DiziPal Orijinal.",
-        "url": "https://raw.githubusercontent.com/kadireksi/kreaStream/builds/DiziPalOrijinal.cs3",
+        "url": "https://raw.githubusercontent.com/troy8865/kad_ley/builds/DiziPalOrijinal.cs3",
         "name": "DiziPalOrijinal"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/kadireksi/kreaStream",
+        "repositoryUrl": "https://github.com/troy8865/kad_ley",
         "fileSize": 26271,
         "status": 1,
         "language": "tr",
@@ -94,13 +94,13 @@
         "version": 3,
         "internalName": "HDFilmCehennemi",
         "description": "T\u00fcrkiye'nin en h\u0131zl\u0131 hd film izleme sitesi",
-        "url": "https://raw.githubusercontent.com/kadireksi/kreaStream/builds/HDFilmCehennemi.cs3",
+        "url": "https://raw.githubusercontent.com/troy8865/kad_ley/builds/HDFilmCehennemi.cs3",
         "name": "HDFilmCehennemi"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=colorhunt.co&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/kadireksi/kreaStream",
+        "repositoryUrl": "https://github.com/troy8865/kad_ley",
         "fileSize": 18712,
         "status": 1,
         "language": "tr",
@@ -113,13 +113,13 @@
         "version": 9,
         "internalName": "NeonSpor",
         "description": "(A\u00e7\u0131lmayan Spor Kanallar \u0130\u00e7in VPN Gerekebilir.) NeonSpor eklentisinde BeIN Sports, Tabii Spor, S Sports, Exxen Spor, Smart Spor, Tivibu Spor ve Di\u011fer kanallar mevcuttur.",
-        "url": "https://raw.githubusercontent.com/kadireksi/kreaStream/builds/NeonSpor.cs3",
+        "url": "https://raw.githubusercontent.com/troy8865/kad_ley/builds/NeonSpor.cs3",
         "name": "NeonSpor"
     },
     {
         "iconUrl": "https://www.setfilmizle.uk/wp-content/uploads/2017/05/set-touch.webp",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/kadireksi/kreaStream",
+        "repositoryUrl": "https://github.com/troy8865/kad_ley",
         "fileSize": 22881,
         "status": 1,
         "language": "tr",
@@ -133,13 +133,13 @@
         "version": 15,
         "internalName": "SetFilmIzle",
         "description": "Setfilmizle sitemizde, donma ya\u015famadan T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 filmleri ile dizileri muhte\u015fem 1080p full HD kalitesinde izleyebilirsiniz.",
-        "url": "https://raw.githubusercontent.com/kadireksi/kreaStream/builds/SetFilmIzle.cs3",
+        "url": "https://raw.githubusercontent.com/troy8865/kad_ley/builds/SetFilmIzle.cs3",
         "name": "SetFilmIzle"
     },
     {
         "iconUrl": "https://kariyer.trt.net.tr/wp-content/uploads/2022/01/trt-kariyer-logo.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/kadireksi/kreaStream",
+        "repositoryUrl": "https://github.com/troy8865/kad_ley",
         "fileSize": 31187,
         "status": 1,
         "language": "tr",
@@ -153,7 +153,7 @@
         "version": 3,
         "internalName": "Trt",
         "description": "TRT TV & Radyo & Diziler & Programlar",
-        "url": "https://raw.githubusercontent.com/kadireksi/kreaStream/builds/Trt.cs3",
+        "url": "https://raw.githubusercontent.com/troy8865/kad_ley/builds/Trt.cs3",
         "name": "Trt"
     }
 ]
