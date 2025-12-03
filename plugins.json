@@ -71,7 +71,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "DiziPalOrijinal",
         "description": "DiziPal Orijinal.",
         "url": "https://raw.githubusercontent.com/troy8865/kad_ley/builds/DiziPalOrijinal.cs3",
@@ -81,7 +81,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/troy8865/kad_ley",
-        "fileSize": 26271,
+        "fileSize": 26272,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -91,7 +91,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "HDFilmCehennemi",
         "description": "T\u00fcrkiye'nin en h\u0131zl\u0131 hd film izleme sitesi",
         "url": "https://raw.githubusercontent.com/troy8865/kad_ley/builds/HDFilmCehennemi.cs3",
