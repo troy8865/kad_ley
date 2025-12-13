@@ -62,7 +62,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/troy8865/kad_ley",
-        "fileSize": 44164,
+        "fileSize": 44171,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -71,7 +71,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "DiziPalOrijinal",
         "description": "DiziPal Orijinal.",
         "url": "https://raw.githubusercontent.com/troy8865/kad_ley/builds/DiziPalOrijinal.cs3",
