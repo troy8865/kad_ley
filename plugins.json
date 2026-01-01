@@ -23,7 +23,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/troy8865/kad_ley",
-        "fileSize": 31506,
+        "fileSize": 31503,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -32,7 +32,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "DiziMom",
         "description": "Binlerce yerli yabanc\u0131 dizi ar\u015fivi, t\u00fcm sezonlar, kesintisiz b\u00f6l\u00fcmler. Sadece dizi izle, Dizimom heryerde seninle!",
         "url": "https://raw.githubusercontent.com/troy8865/kad_ley/builds/DiziMom.cs3",
